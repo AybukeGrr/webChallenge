@@ -1,0 +1,63 @@
+main {
+  margin: 50px auto;
+  background-color: rgb(200, 200, 300);
+  padding: 32px;
+  box-shadow: 4px 4px rgb(2, 2, 2, 0.1);
+  border-radius: 4px;
+  width: 800px;
+}
+
+h1 {
+  margin-top: 100px;
+  /**text-align: center;**/
+}
+
+body {
+  background-color: rgb(200, 200, 100);
+}
+
+header {
+  text-align: center;
+}
+
+body img {
+  width: 250px;
+  /**text-align: center;**/
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin: 14px 0;
+  padding-left: 10px;
+  border-left: 5px solid transparent;
+}
+
+.extra-important {
+  color: rgb(255, 234, 177);
+  border-color: rgb(247, 209, 55);
+}
+
+span {
+  background-color: aliceblue;
+  border-radius: 2px;
+  padding: 3px;
+}
+
+span:hover, span:active{
+  background-color: aquamarine;
+}
+
+footer {
+  text-align: center;
+}
+
+button {
+  color: rgb(100, 200, 300);
+  background-color: black;
+  padding: 5px;
+}

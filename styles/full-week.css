@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+}
+
+header{
+    margin-bottom: 0;
+}
+
+h1{
+    font-size: 48px;
+    color: rgb(71, 62, 62);
+}
+
+/**header p{
+    margin-bottom: 36px;
+}**/
+
+#description{
+    margin: 12px 0;
+}
+
+p{
+    color: rgb(465, 465, 465);  
+}
+
+a{
+    font-family: 'Fira-Sans', sans-serif;
+    background-color: rgb(1, 1, 78) ;
+    border-radius: 4px;
+    padding: 12px 48px;
+    display: inline-block;
+    margin: 0;
+}
+
+a:hover{
+    background-color: rgb(155, 5, 5);
+    border: 5px solid rgb(132, 132, 132);
+    text-decoration: none;
+}
+
+ol{
+    list-style: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0px;
+}
+
+li{
+    background-color: rgb(21, 136, 124);
+    box-shadow: 5px 5px 4px rgb(0, 0, 0,5);
+    border-radius: 6px;
+    margin: 32px;
+    padding: 16px;
+}
+
+h2{
+    color: rgb(78, 13, 5);
+    font-family: 'Oswald', sans-serif;
+}
+
+main p{
+    margin: 12px;
+    color: rgb(71, 29, 22);
+}
+
+.high-goal{
+    background-color: rgb(25, 125, 25);
+}
+
